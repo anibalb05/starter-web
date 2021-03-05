@@ -1,5 +1,7 @@
 # Starter Web Project
 
+This is a simple project to demonstrate the use of git
+
 ## Introduction
 
 ## Purpose
