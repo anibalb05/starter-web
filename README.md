@@ -16,5 +16,7 @@ This is a simple web project, deployment can be on any web server or local file 
 
 ## How to contribute
 
+Please fork this repository and then issue Pull requests for review.
+
 ###
 2021 AB
