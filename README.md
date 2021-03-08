@@ -1,7 +1,8 @@
 # Starter Web Project
 
 This is a simple project to demonstrate the use of git.
-Adding a line to demonstrate rebase
+Adding a line to demonstrate rebase, then more changes
+from myfeature branch too.
 
 
 ## Introduction
